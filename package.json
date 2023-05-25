@@ -1,0 +1,23 @@
+{
+  "name": "@gdamjan/hello-world",
+  "private": false,
+  "version": "1.0.0",
+  "description": "Just a simple hello world test package",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gdamjan/hello-world-npmjs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gdamjan/hello-world-npmjs/issues"
+  },
+  "homepage": "https://github.com/gdamjan/hello-world-npmjs#readme",
+  "dependencies": {
+    "node-fetch": "^3.3.1"
+  }
+}
